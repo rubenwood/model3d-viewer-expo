@@ -10,12 +10,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
-   or
+   here is also a distinc list of packages to install
 
+   ```bash
    npm install three @react-three/fiber @react-three/drei
    npx expo install expo-gl
    npm install lucide-react-native
    npm install r3f-native-orbitcontrols
+   ```
 
 2. Start the app
 
