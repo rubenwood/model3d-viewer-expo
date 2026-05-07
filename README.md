@@ -1,6 +1,6 @@
 # model viewer expo
 
-This demonstrates how to use Threejs / react-thee-fiber / react-drei with React Native (Expo)
+This demonstrates how to use Threejs / react-three-fiber / react-drei with React Native (Expo)
 
 ## Get started
 
@@ -10,7 +10,7 @@ This demonstrates how to use Threejs / react-thee-fiber / react-drei with React 
    npm install
    ```
 
-   here is also a distinc list of packages to install
+   here is also a distinct list of packages to install
 
    ```bash
    npm install three @react-three/fiber @react-three/drei
